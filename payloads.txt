@@ -1,0 +1,7 @@
+http://evil.com
+//evil.com/
+//evil.com
+/evil.com
+/%2f%2fevil.com
+////%09/evil.com
+//evil.com/%2f..
