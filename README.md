@@ -6,18 +6,18 @@ is a Fast Python tool designed to detect open redirects vulnerabilities on websi
 
 ## install
 
-# 1
+# 1 :
 ```
 git clone https://github.com/Stonzyy/ORector.git
 
 ```
 
-#2
+# 2 :
 
 ```
 cd ORector
 ```
-#3
+# 3 :
 
 ```
 
