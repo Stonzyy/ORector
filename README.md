@@ -37,4 +37,4 @@ python3 orecter.py
 
 ## Note :
 
-This Tool Support Scan List Of Urls in Ones Run , Add All Urls To word.txt Then Run ```python3 orecter.py```
+This Tool Support Scan List Of Urls , Add All Urls To word.txt Then Run ```python3 orecter.py```
